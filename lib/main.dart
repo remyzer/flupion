@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: Color.fromRGBO(82, 114, 255, 1),
         primarySwatch: Colors.grey,
       ),
-      home: const MyHomePage(title: 'Flupion'),
+      home: const MyHomePage(title: 'Flupion un jeu de morpion'),
     );
   }
 }
